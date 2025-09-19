@@ -17,7 +17,9 @@ The app leverages a trained machine learning model to deliver real-time predicti
 
 ## 📊 Dataset
 - 733 images across 11 flower categories  
-- Preprocessed and trained using TensorFlow  
+- Preprocessed and trained using TensorFlow
+- Link (Data from Kaggle):
+- https://www.kaggle.com/datasets/aksha05/flower-image-dataset?resource=download
 
 ## 👩‍💻 Contributions
 Developed in collaboration with a team of students.  
